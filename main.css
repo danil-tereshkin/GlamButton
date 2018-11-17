@@ -1,0 +1,12 @@
+.glam {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5em;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+    background: linear-gradient(180deg, deeppink, white, deeppink);
+    border: 1px solid white;
+    box-shadow: 0 0 5px 2px deeppink,
+        0 0 5px 6px white,
+        0 0 5px 4px black;
+}
